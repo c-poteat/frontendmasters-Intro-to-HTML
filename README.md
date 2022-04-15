@@ -3,7 +3,7 @@ HTML Project
 
 
 # HTML Intro
-> Goal is to brush up on HTMl and CSS skills.
+> Goal is to brush up on HTML and CSS skills.
 
 ## Table of Contents
 * [General Info](#general-information) 
